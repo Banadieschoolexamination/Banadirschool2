@@ -19,7 +19,7 @@
             transform: translate(-50%,-50%);
             border-collapse: collapse;
             width: 800px;
-            height: 300px;
+            height: 200px;
        
            
             
@@ -69,8 +69,8 @@
     </style>
     <body>
         
-        <H3> Sadak Abdullahi Ahmed</H3>
-        <H3> ID: 002</H3>
+        <H3> Hassan Mohamed Yusuf</H3>
+        <H3> ID: 003</H3>
        
         <hr>
         <table>
@@ -83,37 +83,37 @@
 
             </tr>
             <td> Window</td>
-            <td> 90</td>
-            <td> A</td>
+            <td> 100</td>
+            <td> A+</td>
             <td> Computer</td>
             <tr>
 
            
         </tr>
         <td> Word</td>
-        <td> 97</td>
-        <td> A+</td>
+        <td> 95</td>
+        <td> B</td>
         <td> Computer</td>
         <tr>
 
        
     </tr>
     <td> Excel</td>
-    <td> 100</td>
-    <td> A+</td>
+    <td> 90</td>
+    <td> C</td>
     <td> Computer</td>
     <tr>
 
 </tr>
 <td> Powerpoint</td>
-<td> 92</td>
-<td> A</td>
+<td> 80</td>
+<td> A+</td>
 <td> Computer</td>
 <tr>
 </tr>
 <td> Basic Security</td>
-<td> 88</td>
-<td> B+</td>
+<td> 85</td>
+<td> C</td>
 <td> Computer</td>
 <tr>
 
